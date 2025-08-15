@@ -1,0 +1,38 @@
+# Dependencies 
+node_modules/ 
+*/node_modules/ 
+ 
+# Build outputs 
+dist/ 
+build/ 
+.next/ 
+out/ 
+ 
+# Environment files 
+.env 
+.env.local 
+.env.production 
+ 
+# Logs 
+*.log 
+logs/ 
+ 
+# Database 
+*.sql 
+*.db 
+ 
+# Media files 
+*.mp4 
+*.mov 
+*.avi 
+ 
+# Compressed 
+*.zip 
+*.rar 
+ 
+# Expo specific 
+.expo/ 
+ 
+# Cache 
+.cache/ 
+coverage/ 
